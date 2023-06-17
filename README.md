@@ -28,7 +28,7 @@ Hướng dẫn thực hiện validation form HTML. Chương trình phân tích s
 ![image](https://github.com/SokKimThanh/W3SchoolsValidationFormHTML/assets/20368186/5310db8f-ed84-4f3d-ad68-1d2f02149cd7)
 ## Khi quên thì rê chuột vào https://regexr.com/
 ![image](https://github.com/SokKimThanh/W3SchoolsValidationFormHTML/assets/20368186/10326560-77a0-41d2-80a2-e55bfd918290)
-### Thực hành cho 3 hàm còn lại
+# Nhiệm vụ bài tập: Thực hành cho 3 hàm còn lại trong file script-validationform.js
 ![image](https://github.com/SokKimThanh/W3SchoolsValidationFormHTML/assets/20368186/07c6d236-9480-49f4-bddb-7d3542899175)![image](https://github.com/SokKimThanh/W3SchoolsValidationFormHTML/assets/20368186/099c95de-5bcb-4a0b-94f2-9463b6fe60e8)
 
 Chúc mọi người ôn tập vui vẻ và tiếp thu được nhiều kiến thức!
