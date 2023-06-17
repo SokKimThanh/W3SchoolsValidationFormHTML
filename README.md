@@ -30,7 +30,8 @@ Hướng dẫn thực hiện validation form HTML. Chương trình phân tích s
 ### Thực hành cho 3 hàm còn lại
 ![image](https://github.com/SokKimThanh/W3SchoolsValidationFormHTML/assets/20368186/07c6d236-9480-49f4-bddb-7d3542899175)![image](https://github.com/SokKimThanh/W3SchoolsValidationFormHTML/assets/20368186/099c95de-5bcb-4a0b-94f2-9463b6fe60e8)
 
-
+Chúc mọi người ôn tập vui vẻ và tiếp thu được nhiều kiến thức!
+=
 
 
 
