@@ -19,7 +19,7 @@ Hướng dẫn thực hiện validation form HTML. Chương trình phân tích s
 ## Ví dụ: Cách kiểm tra số điện thoại việt nam (84|0[3|5|7|8|9])+([0-9]{8,11})\b
 ![image](https://github.com/SokKimThanh/W3SchoolsValidationFormHTML/assets/20368186/76e72b40-191e-4ba3-b018-2c6001476fb7)
 
-## Ví dụ: cách kiểm tra số https://3widgets.com/
+## Ví dụ: cách kiểm tra số khoảng từ đến https://3widgets.com/
 ### trong khoảng từ 18 đến 35
 ![image](https://github.com/SokKimThanh/W3SchoolsValidationFormHTML/assets/20368186/26508c66-3633-42b5-b0ef-60a2afcdc656)
 ### trong khoảng 1900 - 2030
