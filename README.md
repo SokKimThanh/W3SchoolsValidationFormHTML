@@ -7,7 +7,7 @@ Hướng dẫn thực hiện validation form HTML. Chương trình phân tích s
 
 ## Phân tích chương trình kiểm tra nhập của người dùng
 ![image](https://github.com/SokKimThanh/W3SchoolsValidationFormHTML/assets/20368186/0afae22a-993b-4e04-a699-6eb193392191)
-## Bootstrap 5 validation VS HTML5 Validation form 
+## Tải về và giải nén mở bằng visual code: Bootstrap 5 validation VS HTML5 Validation form 
 ![image](https://github.com/SokKimThanh/W3SchoolsValidationFormHTML/assets/20368186/10acba16-3a2e-4161-8ae9-26ba223a017e)
 # Thực hành validation form bằng test regex biểu thức chính quy
 ## Khi quên thì rê chuột vào 
