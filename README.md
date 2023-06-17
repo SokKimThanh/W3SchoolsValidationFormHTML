@@ -18,6 +18,20 @@ Hướng dẫn thực hiện validation form HTML. Chương trình phân tích s
 ![image](https://github.com/SokKimThanh/W3SchoolsValidationFormHTML/assets/20368186/0d21d07c-329a-44a6-ac20-c00ecf17f8cc)
 ## Ví dụ: Cách kiểm tra số điện thoại việt nam (84|0[3|5|7|8|9])+([0-9]{8,11})\b
 ![image](https://github.com/SokKimThanh/W3SchoolsValidationFormHTML/assets/20368186/76e72b40-191e-4ba3-b018-2c6001476fb7)
+## Ví dụ: Cách kiểm tra e-mail
+![image](https://github.com/SokKimThanh/W3SchoolsValidationFormHTML/assets/20368186/a6087093-2337-45fc-bc4d-1bbf539fe9ef)
+### ^(?=.{1,64}@)[A-Za-z0-9_-]+(\\.[A-Za-z0-9_-]+)*@[^-][A-Za-z0-9-]+(\\.[A-Za-z0-9-]+)*(\\.[A-Za-z]{2,})$
+### Dưới đây là một danh sách các địa chỉ email hợp lệ khi sử dụng chuỗi regex này: 
+- username@domain.com
+- user.name@domain.com
+- user-name@domain.com
+- username@domain.co.in
+- user_name@domain.com
+### Và một số địa chỉ email không hợp lệ như:
+- username.@domain.com
+- .user.name@domain.com
+- user-name@domain.com.
+- username@.com
 
 ## Ví dụ: cách kiểm tra số khoảng từ đến https://3widgets.com/
 ### trong khoảng từ 18 đến 35
