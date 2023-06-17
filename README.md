@@ -1,3 +1,4 @@
+![image](https://github.com/SokKimThanh/W3SchoolsValidationFormHTML/assets/20368186/a1ed6847-3393-4174-afd4-e24716c8a4c4)
 # W3Schools Validation Form HTML5 https://regexr.com/
 Hướng dẫn thực hiện validation form HTML. Chương trình phân tích sự khác nhau giữa những form của bootstrap 5 với form validation HTML5 bình thường.
 
