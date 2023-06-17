@@ -2,6 +2,12 @@
 Hướng dẫn thực hiện validation form HTML. Chương trình phân tích sự khác nhau giữa những form của bootstrap 5 với form validation HTML5 bình thường.
 ## Link xem video: https://youtu.be/JreZZuQ-Z48
 ![image](https://github.com/SokKimThanh/W3SchoolsValidationFormHTML/assets/20368186/fabd8ebc-064b-43b8-8a0c-aaadc2a1de21)
+## Bài tập về nhà: thực hiện test validation form bằng regex
+![image](https://github.com/SokKimThanh/W3SchoolsValidationFormHTML/assets/20368186/0d21d07c-329a-44a6-ac20-c00ecf17f8cc)
+### Thực hành cho 3 hàm còn lại
+![image](https://github.com/SokKimThanh/W3SchoolsValidationFormHTML/assets/20368186/07c6d236-9480-49f4-bddb-7d3542899175)
+![image](https://github.com/SokKimThanh/W3SchoolsValidationFormHTML/assets/20368186/099c95de-5bcb-4a0b-94f2-9463b6fe60e8)
+
 ## File validation form của cô Hồng Mỹ 
 ![image](https://github.com/SokKimThanh/W3SchoolsValidationFormHTML/assets/20368186/4b605039-d41a-40a2-904a-245bb07f999f) ![image](https://github.com/SokKimThanh/W3SchoolsValidationFormHTML/assets/20368186/9c5c1e3e-6e57-4f5a-9dcf-7c353933521a)
 
