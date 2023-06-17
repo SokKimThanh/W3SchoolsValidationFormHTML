@@ -19,6 +19,8 @@ Hướng dẫn thực hiện validation form HTML. Chương trình phân tích s
 
 ## Ví dụ: cách kiểm tra số trong khoảng từ 18 đến 35
 ![image](https://github.com/SokKimThanh/W3SchoolsValidationFormHTML/assets/20368186/ce34d90d-135a-4a06-a081-6da8e424d884)
+### 1900 - 2030
+![image](https://github.com/SokKimThanh/W3SchoolsValidationFormHTML/assets/20368186/d17b43b4-8f38-4b70-bcb5-f38163bab391)
 
 ## Ví dụ: Cách Kiểm tra mật khẩu
 ### 1 chữ cái viết hoa, 1 chữ cái viêt thường, 1 kí tự đặc biệt, 1 kí tự số
