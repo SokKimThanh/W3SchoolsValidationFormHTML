@@ -17,11 +17,13 @@ Hướng dẫn thực hiện validation form HTML. Chương trình phân tích s
 ## Bài tập về nhà: thực hiện test validation form bằng regex
 ![image](https://github.com/SokKimThanh/W3SchoolsValidationFormHTML/assets/20368186/0d21d07c-329a-44a6-ac20-c00ecf17f8cc)
 
-## Ví dụ: cách kiểm tra số 
+## Ví dụ: cách kiểm tra số https://3widgets.com/
 ### trong khoảng từ 18 đến 35
 ![image](https://github.com/SokKimThanh/W3SchoolsValidationFormHTML/assets/20368186/26508c66-3633-42b5-b0ef-60a2afcdc656)
 ### trong khoảng 1900 - 2030
 ![image](https://github.com/SokKimThanh/W3SchoolsValidationFormHTML/assets/20368186/d17b43b4-8f38-4b70-bcb5-f38163bab391)
+### trong khoảng 500k - 1M
+![image](https://github.com/SokKimThanh/W3SchoolsValidationFormHTML/assets/20368186/3343f10b-5d51-4347-b835-a32b170021c7)
 
 ## Ví dụ: Cách Kiểm tra mật khẩu
 ### 1 chữ cái viết hoa, 1 chữ cái viêt thường, 1 kí tự đặc biệt, 1 kí tự số
